@@ -1,0 +1,1 @@
+@py.exe C:\Users\HP 15\Desktop\python project\websearch.py %*
